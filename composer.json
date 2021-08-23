@@ -1,0 +1,19 @@
+{
+    "name": "ehcoder/contact",
+    "description": "A Great Package For Contact Form And Sending Email To Admin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ehsan Dastras",
+            "email": "ehsan1372d@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ehcoder\\Contact\\": "src/"
+        }
+    }
+}
